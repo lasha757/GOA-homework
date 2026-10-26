@@ -1,0 +1,23 @@
+# Integer
+print(10 + 20)
+print(15 - 5)
+print(4 * 3)
+print(50 / 10)
+print(2 ** 3)
+print(10 % 3)
+print(7 + 8)
+print(25 - 12)
+print(6 * 5)
+print(100 / 25)
+
+# Float
+print(2.5 + 1.5)
+print(5.0 - 2.2)
+print(3.5 * 2.0)
+print(10.5 / 2.0)
+print(2.0 ** 3.0)
+print(5.5 % 2.0)
+print(4.1 + 3.9)
+print(7.5 - 3.2)
+print(1.5 * 4.0)
+print(9.0 / 3.0)
